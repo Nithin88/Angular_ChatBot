@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Angular">d324c813db301300503772ffbf96195d</application>
+        <filter/>
+        <name>Logins</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_178741_ng_chat_login_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-17 07:50:36</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b24c813db301300503772ffbf96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Logins</sys_name>
+        <sys_package display_value="Angular ChatBot" source="x_178741_ng_chat">1c538053db301300503772ffbf96192c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Angular ChatBot">1c538053db301300503772ffbf96192c</sys_scope>
+        <sys_update_name>sys_ui_module_9b24c813db301300503772ffbf96195d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-17 07:50:36</sys_updated_on>
+        <table>x_178741_ng_chat_login</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
